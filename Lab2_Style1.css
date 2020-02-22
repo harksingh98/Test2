@@ -1,0 +1,244 @@
+body {
+		background-color:#64B3E1;
+		
+}
+
+.box-0 form{
+	padding: 20px;
+	font-family: Helvetica;
+}
+
+.box-0 input[type=text]{
+	padding: 8px;
+	width: 100%;
+}
+
+.box-0 form input[type="submit"]{
+	background-color: #333;
+	color: #fff;
+	border:none;
+}
+.box-1{
+	background-color:#F1F671;
+	width: 90%;
+	border: 4px black solid;
+	line-height: 1.2em;
+	padding: 5px;
+	margin-top: 40px;
+}
+
+.box-1 h1{
+	font-family: Helvetica;
+	font-weight: 500;
+	text-decoration: underline;
+	font-weight: bold;
+	font-size: 30px;
+	margin-left: 10px;
+}
+
+.L1{
+	font-family: Verdana;
+	font-size: 15px;
+}
+
+.box-2{
+	background-color:#F1F671;
+	width: 80%;
+	margin: auto;
+	border: 4px blue double;
+	margin-top: 100px;
+	padding-left: 40px;
+	font-family: Verdana;
+}
+
+.box-2 h1{
+	font-family: Helvetica;
+	font-weight: 500;
+	text-decoration: underline;
+	font-weight: bold; 
+	font-size: 40px;
+}
+
+.box-2 img{
+	border-radius: 8px;
+}
+
+.box-2 p{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.box-2 ul{
+	list-style-type: circle;
+}
+
+.box-3{
+	background-color:#F1F671;
+	width: 80%;
+	margin: auto;
+	border: 4px blue double;
+	margin-top: 100px;
+	padding-left: 40px;
+	font-family: Verdana;
+}
+
+.box-3 h1{
+	font-family: Helvetica;
+	font-weight: 500;
+	text-decoration: underline;
+	font-weight: bold; 
+	font-size: 40px;
+	text-align: center;
+}
+
+.box-3 p="id"{
+	font-size: 20px;
+}
+
+.box-3 ol{
+	list-style-type: square;
+}
+
+.box-4 {
+	background-color:#F1F671;
+	width: 80%;
+	margin: auto;
+	border: 4px blue double;
+	margin-top: 100px;
+	padding-left: 40px;
+	font-family: Verdana;	
+}
+
+.box-4 h1{
+	font-family: Helvetica;
+	font-weight: 500;
+	text-decoration: underline;
+	font-weight: bold; 
+	font-size: 40px;
+	text-align: center;
+}
+
+.box-4 p{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.box-4 ol{
+	list-style-type: upper-roman;
+}
+
+.box-5{
+	background-color:#F1F671;
+	width: 80%;
+	margin: auto;
+	border: 4px blue double;
+	margin-top: 100px;
+	padding-left: 40px;
+	font-family: Verdana;	
+	padding-bottom: 20px;
+}
+
+.box-5 h1{
+	font-family: Helvetica;
+	font-weight: 500;
+	text-decoration: underline;
+	font-weight: bold; 
+	font-size: 40px;
+	text-align: center;
+}
+
+.box-5 p{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.box-5 table, th, td{
+	border:1px solid black;
+}
+
+.box-6{
+	background-color:#F1F671;
+	width: 80%;
+	margin: auto;
+	border: 4px blue double;
+	margin-top: 100px;
+	padding-left: 40px;
+	font-family: Verdana;		
+}
+
+.box-6 h1{
+	font-family: Helvetica;
+	font-weight: 500;
+	text-decoration: underline;
+	font-weight: bold; 
+	font-size: 40px;
+	text-align: center;
+}
+
+.box-6 a{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.box-7{
+	background-color:#F1F671;
+	width: 80%;
+	margin: auto;
+	border: 4px blue double;
+	margin-top: 100px;
+	padding-left: 40px;
+	font-family: Verdana;	
+	padding-bottom: 20px;
+}
+
+.box-7 p{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.box-7 iframe{
+	margin-top: 50px;
+}
+
+.box-8{
+	background-color:#F1F671;
+	width: 80%;
+	margin: auto;
+	border: 4px blue double;
+	margin-top: 100px;
+	padding-left: 40px;
+	font-family: Verdana;	
+	padding-right: 40px;
+	padding-bottom: 20px;
+}
+
+.box-8 a{
+	color: blue;
+}
+
+.box-8 p{
+	font-size: 20px;
+	font-weight: bold;
+	color: black;
+}
+
+.box-9{
+	background-color:#F1F671;
+	width: 80%;
+	margin: auto;
+	border: 4px blue double;
+	margin-top: 100px;
+	padding-left: 40px;
+	font-family: Verdana;	
+	padding-right: 40px;
+	padding-bottom: 20px;
+}
+
+.box-9 p{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.box-9 a{
+	color: blue;
+}
